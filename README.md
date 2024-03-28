@@ -1,8 +1,8 @@
+![Yan Santos' GitHub stats](https://github-readme-stats.vercel.app/api?username=yanbfs&show_icons=true&theme=radical)
+
 ### Olá! Eu sou o Yan Santos. 👋🏼
 
 Sou um entusiasta programador web apaixonado por tecnologia, com expertise em HTML, CSS, JavaScript, PHP, Node.js, Next.js. Estou constantemente em busca de oportunidades desafiadoras para aplicar minha paixão e habilidades, contribuindo para projetos inovadores e impactantes na área de tecnologia.
-
-![Yan Santos' GitHub stats](https://github-readme-stats.vercel.app/api?username=yanbfs&show_icons=true&theme=radical)
 
 ### Tecnologias que uso em meus projetos
 <div style="display: inline_block"><br/>
