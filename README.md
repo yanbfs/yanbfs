@@ -15,5 +15,3 @@ Sou um entusiasta programador web apaixonado por tecnologia, com expertise em HT
     <img  align="center" alt="HTML5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img  align="center" alt="HTML5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div><br/>
-
-![Snake animation](https://github.com/yanbfs/yanbfs/blob/output/github-contribution-grid-snake.svg)
