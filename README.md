@@ -2,7 +2,7 @@
 
 ### Olá! Eu sou o Yan Santos. 👋🏼
 
-Sou um entusiasta programador web apaixonado por tecnologia, com expertise em HTML, CSS, JavaScript, PHP, Node.js, Next.js. Estou constantemente em busca de oportunidades desafiadoras para aplicar minha paixão e habilidades, contribuindo para projetos inovadores e impactantes na área de tecnologia.
+Sou um programador web apaixonado por tecnologia, com experiência em HTML, CSS, JavaScript e PHP. Estou sempre buscando novos projetos para aplicar minhas habilidades e ampliar meus conhecimento.
 
 ### Tecnologias que uso em meus projetos
 <div style="display: inline_block"><br/>
