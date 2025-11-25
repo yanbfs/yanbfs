@@ -13,10 +13,3 @@ Sou um programador web apaixonado por tecnologia, com experiência em HTML, CSS,
     <img  align="center" alt="HTML5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img  align="center" alt="HTML5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div><br/>
-
-![Yan Santos' GitHub stats](https://github-readme-stats.vercel.app/api?username=yanbfs&show_icons=true&theme=default)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanbfs&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
