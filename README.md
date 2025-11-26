@@ -1,8 +1,3 @@
-<!-- Banner ou imagem de capa -->
-<p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Bem+Vindo+ao+Meu+GitHub" />
-</p>
-
 <h1 align="center">👋 Olá, eu sou <strong>Seu Nome Aqui</strong></h1>
 <p align="center">Desenvolvedor Front-End | Entusiasta de UI/UX | Criador de Projetos Web 🚀</p>
 
@@ -76,15 +71,6 @@ Estou sempre buscando novos desafios para ampliar meu repertório e elevar o ní
 🔗 **Repositório:** [Clique aqui](#)
 
 --- -->
-
-## 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img height="170px" src="https://github-readme-stats-git-masterorg.vercel.app/api?username=yanbfs&show_icons=true&theme=tokyonight" />
-  <img height="170px" src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=yanbfs&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 📱 Contato
 
